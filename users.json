@@ -73,5 +73,20 @@
         "default_namespace":"SRM_DEMO_DB",
         "default_role":"RF_SRM_DEMO_ROLE",
         "roles":"[RF_SRM_DEMO_ROLE]"
+    },
+    "5":{
+        "to_delete":false,
+        "name":"FARID",
+        "email":"Paul@gmail.com",
+        "login_name":"FARID",
+        "display_name":"FARID",
+        "first_name":"mr",
+        "last_name":"FARIDL",
+        "comment":null,
+        "disabled":false,
+        "default_warehouse":"BI_WH",
+        "default_namespace":"SRM_DEMO_DB",
+        "default_role":"RF_SRM_DEMO_ROLE",
+        "roles":"[RF_SRM_DEMO_ROLE]"
     }
 }
