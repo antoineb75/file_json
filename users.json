@@ -15,7 +15,7 @@
         "roles":"[RF_SRM_DEMO_ROLE]"
     },
     "1":{
-        "to_delete":false,
+        "to_delete":true,
         "name":"JULIEN",
         "email":"antoine.baret@inetum.com",
         "login_name":"JULIEN",
@@ -30,7 +30,7 @@
         "roles":"[RF_SRM_DEMO_ROLE]"
     },
     "2":{
-        "to_delete":false,
+        "to_delete":true,
         "name":"JULIEN",
         "email":"antoine.baret@inetum.com",
         "login_name":"JULIEN",

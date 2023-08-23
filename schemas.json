@@ -1,25 +1,25 @@
 {
     "0":{
         "name":"ANTOINE_SCHEMA",
-        "locked":false,
+        "locked":true,
         "db":"ANTOINE_DB",
-        "to_delete":true,
+        "to_delete":false,
         "CR":false,
         "RO":true,
         "RW":false,
         "OW":false,
-        "ST":true
+        "ST":false
     },
     "1":{
         "name":"ANTOINE_SCHEMA2",
-        "locked":true,
+        "locked":false,
         "db":"ANTOINE_DB",
         "to_delete":true,
         "CR":true,
         "RO":false,
         "RW":false,
         "OW":false,
-        "ST":true
+        "ST":false
     },
     "2":{
         "name":"ANTOINE_SCHEMA3",
@@ -28,8 +28,8 @@
         "to_delete":true,
         "CR":true,
         "RO":false,
-        "RW":true,
-        "OW":true,
-        "ST":true
+        "RW":false,
+        "OW":false,
+        "ST":false
     }
 }
