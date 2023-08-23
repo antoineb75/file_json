@@ -1,0 +1,47 @@
+{
+    "0":{
+        "to_delete":false,
+        "name":"ANTOINE",
+        "email":"antoine.baret@inetum.com",
+        "login_name":"ANTOINE",
+        "display_name":"ANTOINE",
+        "first_name":"monsieur",
+        "last_name":"ANTOINE",
+        "comment":"Demo user",
+        "disabled":true,
+        "default_warehouse":"BI_WHtg",
+        "default_namespace":"SRM_DEMO_DB",
+        "default_role":"RF_SRM_DEMO_ROLE",
+        "roles":"[RF_SRM_DEMO_ROLE]"
+    },
+    "1":{
+        "to_delete":false,
+        "name":"JULIEN",
+        "email":"antoine.baret@inetum.com",
+        "login_name":"JULIEN",
+        "display_name":"JULIEN",
+        "first_name":"monsieur",
+        "last_name":"JULIEN",
+        "comment":"Demo user",
+        "disabled":false,
+        "default_warehouse":"BI_WHtg",
+        "default_namespace":"SRM_DEMO_DB",
+        "default_role":"RF_SRM_DEMO_ROLE",
+        "roles":"[RF_SRM_DEMO_ROLE]"
+    },
+    "2":{
+        "to_delete":false,
+        "name":"JULIEN",
+        "email":"antoine.baret@inetum.com",
+        "login_name":"JULIEN",
+        "display_name":"JULIEN",
+        "first_name":"monsieur",
+        "last_name":"JULIEN",
+        "comment":"Demo user",
+        "disabled":false,
+        "default_warehouse":"BI_WHtg",
+        "default_namespace":"SRM_DEMO_DB",
+        "default_role":"RF_SRM_DEMO_ROLE",
+        "roles":"[RF_SRM_DEMO_ROLE]"
+    }
+}
