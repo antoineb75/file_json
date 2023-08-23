@@ -45,7 +45,7 @@
         "roles":"[RF_SRM_DEMO_ROLE]"
     },
     "3":{
-        "to_delete":false,
+        "to_delete":true,
         "name":"ROBERT",
         "email":"robert@gmail.com",
         "login_name":"ROBERT",
@@ -60,7 +60,7 @@
         "roles":"[RF_SRM_DEMO_ROLE]"
     },
     "4":{
-        "to_delete":false,
+        "to_delete":true,
         "name":"PAUL",
         "email":"Paul@gmail.com",
         "login_name":"Paul",
